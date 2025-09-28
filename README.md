@@ -2,7 +2,6 @@
 
 This project is a 3D animation-based website featuring a realistic honeybee design. It combines creative UI elements with smooth animations to deliver an interactive visual experience.
  
-
 <img width="1919" height="961" alt="Screenshot 2025-09-24 142316" src="https://github.com/user-attachments/assets/b77e3a4b-ac8e-4d0e-bb6e-91c66895a8be" />
 ✨ Features
 
